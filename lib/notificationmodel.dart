@@ -12,3 +12,38 @@ class NotificationModel {
     this.datetime,
   );
 }
+
+List<NotificationModel> notificationmodel = [
+  NotificationModel(
+      "Toast", "Tost from Admin", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Request", "New Request from Hillol", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", false, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", false, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", false, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", false, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", false, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", false, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", true, "Monday, November 28, 2022"),
+  NotificationModel(
+      "Toast", "Tost from Admin", false, "Monday, November 28, 2022"),
+];

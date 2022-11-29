@@ -34,8 +34,6 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      //we are using Scaffold for drawer and also for endDrawer
-
       drawer: const LeftSideDrawer(),
       endDrawer: const RightSideDrawer(),
       appBar: AppBar(
